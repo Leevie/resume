@@ -23,6 +23,7 @@ main {
 }
 
 header {
+    font-size: 120%;
     text-align: center;
     margin: auto 2em;
 }
