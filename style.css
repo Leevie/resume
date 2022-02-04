@@ -5,8 +5,8 @@ body {
     margin: auto;
 }
 
-h1 {
-    font-size: 3em;
+#name-head {
+    font-size: 3.5em;
     letter-spacing: .6em;
     padding-top: 1em;
     padding-bottom: 1em;
