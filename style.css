@@ -51,6 +51,8 @@ h1, h2 {
     margin-bottom: 0;
 }
 
+
+
 #contact-sec {
     font-size: 1em;
 }
@@ -65,4 +67,9 @@ h1, h2 {
 
 #mainLeft {
     border-right: 1px solid lightgray;
+ }
+
+ .job-head {
+     font-size: 125%;
+     font-weight: bold;
  }
